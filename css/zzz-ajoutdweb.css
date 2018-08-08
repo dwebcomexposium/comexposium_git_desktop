@@ -1,0 +1,43 @@
+.tt-dropdown-menu {
+    margin-top: 7px !important;
+}
+
+/*Largeur tableau*/
+.article-content table figure.center {
+    width: auto;
+    max-width: 374px;
+}
+
+
+/*blocs slider home*/
+.HomeSlider-nav-link-group-inner-wrapper {
+    background-color: white;
+    min-height: 215px;
+    padding: 27px 40px 30px;
+    position: relative;
+    width: 300px;
+}
+
+
+.exhibitions-highlights .la-item {
+    min-width: auto;
+}
+
+@media screen and (max-width: 1800px){
+
+.exhibitions-highlights .la-list {
+    max-width: 1103px; }
+
+}
+
+
+.HomeSlider-nav-link-group-title{
+min-height: 5em;
+    height: auto;
+}
+
+@media screen and (max-width: 850px) {
+  .HomeSlider-nav-link-group-title {
+        font-size: 11px;
+  }
+}
