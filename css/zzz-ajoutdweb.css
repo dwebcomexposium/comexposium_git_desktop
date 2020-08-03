@@ -43,3 +43,5 @@ min-height: 5em;
 }
 
 h3, h4 {clear:both}
+
+.article-content > figure {max-width:100%}
