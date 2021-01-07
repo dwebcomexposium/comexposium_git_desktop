@@ -46,7 +46,10 @@
 .social-sharing .sr-item [class^="btn"] .icon.icon-twitter, .social-sharing .sr-item .btn .icon.icon-twitter {
   background: url(/theme/comexposium_git_desktop/img/social-share-icon-twitter.png) 0 0 no-repeat;
 }
-.social-sharing .sr-link-linkedin, .social-sharing .sr-link-gplus {
+.social-sharing .sr-item [class^="btn"] .icon.icon-linkedin, .social-sharing .sr-item .btn .icon.icon-linkedin {
+  background: url(/theme/comexposium_git_desktop/img/social-share-icon-linkedin.png) 0 0 no-repeat;
+}
+.social-sharing .sr-link-gplus {
   display: none;
 }
 .social-sharing .sr-item-txt {
